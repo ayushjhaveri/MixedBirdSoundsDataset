@@ -1,0 +1,12 @@
+Class Number - Bird Specie Common Name
+
+0 - Rose-ringed Parakeet
+1 - House Crow
+2 - Indian Peafowl
+3 - Indian Grey Hornbill
+4 - Laughing Dove
+5 - Aseel Rooster
+6 - Indian Cuckoo
+7 - Common Myna
+8 - Asian Koel
+9 - Red-vented Bulbul
