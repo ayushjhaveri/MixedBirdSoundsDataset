@@ -8,7 +8,7 @@ The idea behind compiling overlapped bird sounds into a dataset stems from the f
 Three chunks of the dataset, can be downloaded and combined to form the complete dataset of 13,160 recordings.
 
 ### labels.csv
-Contains the class labels for each file htat can be used for classifcation.
+Contains the class labels for each file that can be used for classifcation.
 
 ### Bird Species.txt
 The label to species mapping.
